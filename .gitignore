@@ -1,0 +1,15 @@
+# ESP-IDF 构建产物
+build/
+sdkconfig.old
+
+# 调试产物
+*.elf
+*.map
+
+# 打包中间产物
+_build_pkg/
+__pycache__/
+*.pyc
+
+# 一键刷机包（体积大，放到 GitHub Releases，不进仓库）
+ESP32/source/firmware/dist/*.zip
