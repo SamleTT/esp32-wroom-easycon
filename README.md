@@ -14,7 +14,7 @@
 
 ---
 
-## 一、直接下载刷机包（推荐给最终用户）
+## 一、直接下载刷机包
 
 👉 **前往 [Releases 页面](https://github.com/SamleTT/esp32-wroom-easycon/releases/latest)
 下载 `esp32-wroom-EasyCon-USB-flasher-v1.0.0.zip`**（约 19.5 MB）
